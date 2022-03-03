@@ -70,7 +70,9 @@ module.exports = {
         "api"
       ],
       "/docs/java/":[
-          "rabbitmq"
+          "",
+          "rabbitmq",
+          "encryption"
       ],
       "/docs/vue/":[
         "vuepress"
